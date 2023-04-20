@@ -1,0 +1,15 @@
+C:\Users\nikol\OneDrive\Project1\c_les1\bin\Debug\net6.0\c_les1.exe
+C:\Users\nikol\OneDrive\Project1\c_les1\bin\Debug\net6.0\c_les1.deps.json
+C:\Users\nikol\OneDrive\Project1\c_les1\bin\Debug\net6.0\c_les1.runtimeconfig.json
+C:\Users\nikol\OneDrive\Project1\c_les1\bin\Debug\net6.0\c_les1.dll
+C:\Users\nikol\OneDrive\Project1\c_les1\bin\Debug\net6.0\c_les1.pdb
+C:\Users\nikol\OneDrive\Project1\c_les1\obj\Debug\net6.0\c_les1.csproj.AssemblyReference.cache
+C:\Users\nikol\OneDrive\Project1\c_les1\obj\Debug\net6.0\c_les1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\OneDrive\Project1\c_les1\obj\Debug\net6.0\c_les1.AssemblyInfoInputs.cache
+C:\Users\nikol\OneDrive\Project1\c_les1\obj\Debug\net6.0\c_les1.AssemblyInfo.cs
+C:\Users\nikol\OneDrive\Project1\c_les1\obj\Debug\net6.0\c_les1.csproj.CoreCompileInputs.cache
+C:\Users\nikol\OneDrive\Project1\c_les1\obj\Debug\net6.0\c_les1.dll
+C:\Users\nikol\OneDrive\Project1\c_les1\obj\Debug\net6.0\refint\c_les1.dll
+C:\Users\nikol\OneDrive\Project1\c_les1\obj\Debug\net6.0\c_les1.pdb
+C:\Users\nikol\OneDrive\Project1\c_les1\obj\Debug\net6.0\c_les1.genruntimeconfig.cache
+C:\Users\nikol\OneDrive\Project1\c_les1\obj\Debug\net6.0\ref\c_les1.dll
